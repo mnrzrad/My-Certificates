@@ -1,7 +1,4 @@
 ![git](https://github.com/mnrzrad/private_Certificates/blob/main/Workshops/01%20-%20Norouziad%20-%20Numerical%20Analysis%20in%20Financial%20Mathematics%20-%20Yazd.png)
----
----
----
 ![git](https://github.com/mnrzrad/private_Certificates/blob/main/Workshops/02%20-%20Norouzirad%20-%20Advanced%20Latex%20and%20Xepersian%20-%20Yazd.png)
 ![git](https://github.com/mnrzrad/private_Certificates/blob/main/Workshops/03%20-%20Norouzirad%20-%20Mathematision%20Doctor%20-%20Yazd.png)
 ![git](https://github.com/mnrzrad/private_Certificates/blob/main/Workshops/04%20-%20Norouzirad%20-%20Fuzzy%20Workshop%20-%20Shahrood.png)
