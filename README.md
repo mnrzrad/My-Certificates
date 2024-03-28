@@ -6,6 +6,6 @@ Welcome to my certificate repository!
 
 ## [Volentears Activities](https://github.com/mnrzrad/MyCertificates/blob/main/Volunteers.md)
 
-## [Workshops I have attended]()
+## [Workshops I have attended](https://github.com/mnrzrad/MyCertificates/blob/main/workshops.md)
 
 ## [Conferences I have attended]()
