@@ -8,4 +8,4 @@ Welcome to my certificate repository!
 
 ## [Workshops I have attended](https://github.com/mnrzrad/MyCertificates/blob/main/workshops.md)
 
-## [Conferences I have attended]()
+## [Conferences I have attended](https://github.com/mnrzrad/MyCertificates/blob/main/conferances.md)
